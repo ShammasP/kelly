@@ -1,5 +1,7 @@
 # Kelly — AI Scientist Chatbot (poet-scientist)
 
+Live demo @ https://kenc7mx6auuwj6fjhacjyf.streamlit.app/
+
 Kelly is an AI Scientist chatbot that answers every question as a poem in the voice of "Kelly, the great poet".
 
 - Tone: skeptical, analytical, professional
